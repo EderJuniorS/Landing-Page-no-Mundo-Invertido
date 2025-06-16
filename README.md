@@ -65,7 +65,7 @@ Inspirado na icônica série *Stranger Things*, este projeto é uma landing page
 
 1. **Clone o repositório**  
    ```bash
-   git clone https://github.com/seu-usuario/mundo-invertido.git
+   git clone https://github.com/EderJuniorS/Landing-Page-no-Mundo-Invertido.git
    ```
 2. **Abra o arquivo `index.html`** no navegador  
 3. **Clique no botão "Inverter Mundos"** para alternar entre os temas  
